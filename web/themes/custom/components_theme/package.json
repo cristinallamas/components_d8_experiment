@@ -1,0 +1,13 @@
+{
+  "name": "components-theme",
+  "version": "1.0.0",
+  "description": "Experimental theme for Drupal 8",
+  "dependencies": {
+    "@wondrousllc/fractal-twig-drupal-adapter": "^1.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cristinallamas"
+  }
+}
